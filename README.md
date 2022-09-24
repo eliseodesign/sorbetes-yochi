@@ -1,4 +1,4 @@
-# SORBETES YOCHIS
+# SORBETES YOCHI
 
 Pequeño negocio en la localidad de Izalco, que vende helados tradicionales, el cual necesitaba una página para vender su producto
 
