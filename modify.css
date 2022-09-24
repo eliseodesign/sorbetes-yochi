@@ -1,0 +1,31 @@
+*{
+    color: #eee;
+}
+
+span{
+    color: #000;
+}
+#main{
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.808);
+    /* background: rgba(255, 255, 255, 0.507); */
+
+}
+
+#nav a::after{
+    z-index: -1;
+ 
+    border-bottom:0em solid rgba(0, 0, 0, 0.808);
+    position: absolute;
+  
+     transform: translateY(-2px);
+}
+
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+input[type=number] { -moz-appearance:textfield; }
